@@ -1,7 +1,5 @@
 package com.company;
 
-import org.w3c.dom.html.HTMLImageElement;
-
 import java.util.Map;
 
 public class Main {
